@@ -1,0 +1,257 @@
+[
+    {
+        "id": 1,
+        "category": "Organic Vegetables",
+        "Product_name": "Fresh Onion",
+        "categories_id": 1,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and organic Onion",
+        "image": "https://img.freepik.com/free-photo/red-onion-whole-isolated-white_146671-19174.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.38",
+            "400g" : "$2.48",
+            "800g" : "$4.89",
+            "1kg" : "$5"
+        }],
+        "discount": "20% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Organic Vegetables",
+        "Product_name": "Fresh Tomato",
+        "categories_id": 1,
+        "rating": "4.6 stars",
+        "description": "We serve you the fresh and organic Tomato",
+        "image": "https://img.freepik.com/free-photo/tomatoes_144627-15411.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "15% off"
+    },
+
+    {
+        "id": 3,
+        "category": "Organic Vegetables",
+        "Product_name": "Fresh Potato",
+        "categories_id": 1,
+        "rating": "4.2 stars",
+        "description": "We serve you the fresh and organic Potato",
+        "image": "https://img.freepik.com/premium-photo/potatoes-isolated-white_272787-583.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.60",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "10% off"
+    },
+
+
+    {
+        "id": 2,
+        "category": "Organic Fruits",
+        "Product_name": "Fresh Apple",
+        "categories_id": 2,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and organic Apples",
+        "image": "https://img.freepik.com/free-photo/front-view-fresh-red-apples-ripe-mellow-fruits-white-desk-fruit-color-tree-fresh-plant-red_140725-110203.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "15% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Organic Fruits",
+        "Product_name": "Fresh Pineapple",
+        "categories_id": 2,
+        "rating": "4.8 stars",
+        "description": "We serve you the fresh and organic Pineapple",
+        "image": "https://img.freepik.com/free-photo/pineapple-fruit_1203-7746.jpg?size=338&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.60",
+            "800g" : "$5.50",
+            "1kg" : "$6.34"           
+        }],
+        "discount": "20% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Organic Fruits",
+        "Product_name": "Fresh Strawberry",
+        "categories_id": 2,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and organic Strawberry",
+        "image": "https://img.freepik.com/free-photo/red-fresh-strawberries-with-green-leaves_114579-10498.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.89",
+            "400g" : "$2.60",
+            "800g" : "$5.30",
+            "1kg" : "$5.80"           
+        }],
+        "discount": "15% off"
+    }, 
+
+    {
+        "id": 2,
+        "category": "Diary products",
+        "Product_name": "Organic Milk",
+        "categories_id": 3,
+        "rating": "5 stars",
+        "description": "We serve you the fresh and organic Milk",
+        "image": "https://img.freepik.com/free-photo/glass-jar-milk-dried-dates-quail-eggs-tablecloth_114579-24850.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=ais",
+        "weight, price": [{
+            "250g" : "$1.18",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "25% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Diary products",
+        "Product_name": "Organic Eggs",
+        "categories_id": 3,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and organic Eggs",
+        "image": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.20",
+            "800g" : "$5.56",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "15% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Diary products",
+        "Product_name": "Organic Butter",
+        "categories_id": 3,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and organic Butter",
+        "image": "https://img.freepik.com/premium-photo/piece-butter-white-bowl_42687-72.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$3.80",
+            "1kg" : "$4.34"           
+        }],
+        "discount": "35% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Fresh meat",
+        "Product_name": "Raw Meat",
+        "categories_id": 4,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Raw meat",
+        "image": "https://img.freepik.com/premium-photo/meat-black-surface_697356-4591.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "25% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Fresh meat",
+        "Product_name": "raw Fish",
+        "categories_id": 4,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Raw Fish",
+        "image": "https://img.freepik.com/free-photo/hot-pot-shabu-raw-fresh-sliced-fish-plate_1150-35268.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "30% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Fresh meat",
+        "Product_name": "Raw chicken beast",
+        "categories_id": 4,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh raw Chicken Beast",
+        "image": "https://img.freepik.com/free-photo/raw-chicken-breast-dark-surface_1150-43921.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "44% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Packaged foods",
+        "Product_name": "Rolled Oats",
+        "categories_id": 5,
+        "rating": "4.3 stars",
+        "description": "We serve you the best Oats",
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cereal-flake/w/v/e/500-rolled-100-wholegrain-high-protein-breakfast-oats-for-weight-original-imagghw8jcxfakdr.jpeg?q=70",
+       "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "35% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Packaged foods",
+        "Product_name": "Maggie Masala Magic",
+        "categories_id": 5,
+        "rating": "4 stars",
+        "description": "We serve you the best Maggie products",
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/spice-masala/o/w/s/-original-imaggdxyugmpmkrn.jpeg?q=70",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "20% off"
+    },
+
+    {
+        "id": 2,
+        "category": "Packaged foods",
+        "Product_name": "Tomato sauce",
+        "categories_id": 5,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh raw Chicken Beast",
+        "image": "https://rukminim1.flixcart.com/image/612/612/l41n2q80/sauce-ketchup/w/a/q/2-tomato-sauce-no-artificial-colours-flavours-100-natural-original-imagffhnuhgduqfj.jpeg?q=70",
+        "weight, price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "44% off"
+    }
+]
