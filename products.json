@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 1, 
         "category": "Organic Vegetables",
         "Product_name": "Fresh Onion",
         "categories_id": 1,
@@ -50,9 +50,43 @@
         "discount": "10% off"
     },
 
+    {
+        "id": 4, 
+        "category": "Organic Vegetables",
+        "Product_name": "Fresh Garlic",
+        "categories_id": 1,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Garlic",
+        "image": "https://img.freepik.com/free-photo/fresh-raw-garlic-ready-cook_1150-42636.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.38",
+            "400g" : "$2.48",
+            "800g" : "$4.89",
+            "1kg" : "$5"
+        }],
+        "discount": "20% off"
+    },
 
     {
-        "id": 2,
+        "id": 5, 
+        "category": "Organic Vegetables",
+        "Product_name": "Spicy Chlli",
+        "categories_id": 1,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and Spicy Chlli",
+        "image": "https://img.freepik.com/free-photo/red-fresh-chili-peppers-isolated-white_114579-43541.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.38",
+            "400g" : "$2.48",
+            "800g" : "$4.89",
+            "1kg" : "$5"
+        }],
+        "discount": "20% off"
+    },
+
+
+    {
+        "id": 6,
         "category": "Organic Fruits",
         "Product_name": "Fresh Apple",
         "categories_id": 2,
@@ -69,7 +103,7 @@
     },
 
     {
-        "id": 2,
+        "id": 7,
         "category": "Organic Fruits",
         "Product_name": "Fresh Pineapple",
         "categories_id": 2,
@@ -86,7 +120,7 @@
     },
 
     {
-        "id": 2,
+        "id": 8,
         "category": "Organic Fruits",
         "Product_name": "Fresh Strawberry",
         "categories_id": 2,
@@ -103,7 +137,58 @@
     }, 
 
     {
-        "id": 2,
+        "id": 9,
+        "category": "Organic Fruits",
+        "Product_name": "Fresh Watermelon",
+        "categories_id": 2,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Watermelon",
+        "image": "https://img.freepik.com/premium-photo/sweet-watermelon-isolated_253984-4202.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "15% off"
+    },
+
+    {
+        "id": 10,
+        "category": "Organic Fruits",
+        "Product_name": "Fresh Orange",
+        "categories_id": 2,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Orange",
+        "image": "https://img.freepik.com/free-photo/orange-white-white_144627-16571.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "15% off"
+    },
+
+    {
+        "id": 11,
+        "category": "Organic Kivi",
+        "Product_name": "Fresh Watermelon",
+        "categories_id": 2,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Kivi",
+        "image": "https://img.freepik.com/free-photo/fresh-kiwi-fruit-isolated_144627-30034.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "15% off"
+    },
+
+    {
+        "id": 12,
         "category": "Diary products",
         "Product_name": "Organic Milk",
         "categories_id": 3,
@@ -120,7 +205,7 @@
     },
 
     {
-        "id": 2,
+        "id": 13,
         "category": "Diary products",
         "Product_name": "Organic Eggs",
         "categories_id": 3,
@@ -137,7 +222,7 @@
     },
 
     {
-        "id": 2,
+        "id": 14,
         "category": "Diary products",
         "Product_name": "Organic Butter",
         "categories_id": 3,
@@ -154,7 +239,24 @@
     },
 
     {
-        "id": 2,
+        "id": 15,
+        "category": "Diary products",
+        "Product_name": "Organic Cheese",
+        "categories_id": 3,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh and organic Cheese",
+        "image": "https://img.freepik.com/free-photo/close-up-grated-parmesan_23-2148376113.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$3.80",
+            "1kg" : "$4.34"           
+        }],
+        "discount": "35% off"
+    },
+
+    {
+        "id": 16,
         "category": "Fresh meat",
         "Product_name": "Raw Meat",
         "categories_id": 4,
@@ -171,7 +273,7 @@
     },
 
     {
-        "id": 2,
+        "id": 17,
         "category": "Fresh meat",
         "Product_name": "raw Fish",
         "categories_id": 4,
@@ -188,7 +290,7 @@
     },
 
     {
-        "id": 2,
+        "id": 18,
         "category": "Fresh meat",
         "Product_name": "Raw chicken beast",
         "categories_id": 4,
@@ -205,7 +307,41 @@
     },
 
     {
-        "id": 2,
+        "id": 19,
+        "category": "Fresh meat",
+        "Product_name": "Raw Mackerel steak",
+        "categories_id": 4,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Mackerel steak",
+        "image": "https://img.freepik.com/free-photo/fresh-mackerel-steak_1339-3349.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "25% off"
+    },
+
+    {
+        "id": 20,
+        "category": "Fresh meat",
+        "Product_name": "Raw whole chicken",
+        "categories_id": 4,
+        "rating": "4.5 stars",
+        "description": "We serve you the fresh Raw whole chicken",
+        "image": "https://img.freepik.com/premium-photo/raw-chicken-carcass-cutting-board-isolated-white_109285-1132.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "25% off"
+    },
+
+    {
+        "id": 21,
         "category": "Packaged foods",
         "Product_name": "Rolled Oats",
         "categories_id": 5,
@@ -222,7 +358,7 @@
     },
 
     {
-        "id": 2,
+        "id": 22,
         "category": "Packaged foods",
         "Product_name": "Maggie Masala Magic",
         "categories_id": 5,
@@ -239,7 +375,7 @@
     },
 
     {
-        "id": 2,
+        "id": 23,
         "category": "Packaged foods",
         "Product_name": "Tomato sauce",
         "categories_id": 5,
@@ -253,5 +389,39 @@
             "1kg" : "$5.34"           
         }],
         "discount": "44% off"
+    },
+
+    {
+        "id": 24,
+        "category": "Packaged foods",
+        "Product_name": "Raw Peanuts",
+        "categories_id": 5,
+        "rating": "4 stars",
+        "description": "We serve you the best Raw Peanuts",
+        "image": "https://rukminim1.flixcart.com/image/612/612/kzk6bgw0/pulses/4/s/m/3-raw-peanut-sheng-dana-3kg-1-peanut-producer-original-imagbjktafuymgjg.jpeg?q=70",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "20% off"
+    },
+
+    {
+        "id": 25,
+        "category": "Packaged foods",
+        "Product_name": "Peanut butter",
+        "categories_id": 5,
+        "rating": "4 stars",
+        "description": "We serve you the best Peanut butter",
+        "image": "https://rukminim1.flixcart.com/image/612/612/kyyqpow0/jam-spread/v/j/z/340-whey-protein-peanut-butter-dark-chocolaty-extra-crunchy-1-original-imagb2qewjkyxkyz.jpeg?q=70",
+        "price": [{
+            "250g" : "$0.48",
+            "400g" : "$2.30",
+            "800g" : "$5.11",
+            "1kg" : "$5.34"           
+        }],
+        "discount": "20% off"
     }
 ]
