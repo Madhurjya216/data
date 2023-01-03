@@ -172,8 +172,8 @@
 
     {
         "_id": 11,
-        "category": "Organic Kivi",
-        "Product_name": "Fresh Watermelon",
+        "category": "Organic Fruits",
+        "Product_name": "Fresh Kivi",
         "categories_id": 2,
         "rating": "4.5 stars",
         "description": "We serve you the fresh Kivi",
